@@ -1,7 +1,5 @@
 <!-- ====== Hero Banner ====== -->
-<p align="center">
-  <img src="assets/hero.png" alt="Hitesh Patgar — Salesforce Developer" width="100%" />
-</p>
+
 
 
 <h1 align="center">Hi, I'm Hitesh Patgar 👋</h1>
